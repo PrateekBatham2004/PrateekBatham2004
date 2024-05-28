@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PrateekBatham2004
+- 👋 Hi, I’m Prateek Batham
 - 👀 I’m interested in Web Development and DevOps
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on Open source projects in Web Development and DevOps Field
